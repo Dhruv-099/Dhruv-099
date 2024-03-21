@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Bobal</h1>
-<h3 align="center">A learning Data Analyst</h3>
+<h3 align="center">A learning Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **Pyspark, Pandas and NUmpy**
+- 🌱 I’m currently learning **Pyspark, Pandas and Nupy**
 
 - 📫 How to reach me **dhruvb2603@gmail.com**
 
