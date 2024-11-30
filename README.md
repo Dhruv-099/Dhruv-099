@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Bobal</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
-- 🌱 I’m currently learning **TensorFlow, Keras, ANNs and much more**
+- 🌱 I’m currently learning **LLMs, GenAI and much more**
 
 - 📫 How to reach me **dhruvb2603@gmail.com**
 
