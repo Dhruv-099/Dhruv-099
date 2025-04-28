@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dhruvb2603@gmail.com**
 
-- My portfolio is on ** dhruvbobal.onrender.com **
+- My portfolio is on **dhruvbobal.onrender.com**
 
 
 <h3 align="left">Connect with me:</h3>
